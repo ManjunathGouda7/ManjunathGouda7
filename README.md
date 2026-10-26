@@ -64,30 +64,30 @@ I build reliable automation, practical applications, and intelligent tools that 
 <table>
   <tr>
     <td width="50%">
+      <h3>🤖 Working-RAG</h3>
+      <p>Retrieval-Augmented Generation application built in Python for querying documents and contextual knowledge retrieval.</p>
+      <p><b>Focus:</b> Python · LangChain · LLMs · RAG</p>
+      <a href="https://github.com/ManjunathGouda7/Working-RAG">View Repository →</a>
+    </td>
+    <td width="50%">
+      <h3>📄 ATS-Resume</h3>
+      <p>Python tool designed to evaluate and verify resume match scores against ATS (Applicant Tracking Systems) job descriptions.</p>
+      <p><b>Focus:</b> Python · Text Processing · ATS Analysis</p>
+      <a href="https://github.com/ManjunathGouda7/ATS-Resume">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>🔌 USBPD-c2-epr-pyclient</h3>
       <p>GRLPS C2-EPR automation client — drive GRLPS USB-PD C2-EPR application over its local HTTP API and validate compliance metrics.</p>
       <p><b>Focus:</b> Python · HTTP API · USB-PD Automation</p>
-      <a href="https://github.com/ManjunathGouda7?tab=repositories">View Repositories →</a>
+      <a href="https://github.com/ManjunathGouda7/USBPD-c2-epr-pyclient">View Repository →</a>
     </td>
     <td width="50%">
       <h3>📊 Django_PBI</h3>
       <p>Full-stack Python and Django web application integrated with Power BI for data reporting and operational analytics.</p>
       <p><b>Focus:</b> Python · Django · Power BI</p>
       <a href="https://github.com/ManjunathGouda7/Django_PBI">View Repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🤖 Chatbot (Local RAG Assistant)</h3>
-      <p>RAG-based AI assistant built in Python using ChromaDB, LangChain, and local LLMs for querying technical documentation.</p>
-      <p><b>Focus:</b> Python · ChromaDB · LangChain · LLMs</p>
-      <a href="https://github.com/ManjunathGouda7?tab=repositories">View Repositories →</a>
-    </td>
-    <td width="50%">
-      <h3>🍽️ Django_Food</h3>
-      <p>Web application built with Django and HTML/CSS for managing food ordering and service workflows.</p>
-      <p><b>Focus:</b> Django · Python · HTML/CSS</p>
-      <a href="https://github.com/ManjunathGouda7/Django_Food">View Repository →</a>
     </td>
   </tr>
 </table>
