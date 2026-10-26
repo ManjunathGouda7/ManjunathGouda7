@@ -96,11 +96,11 @@ I build reliable automation, practical applications, and intelligent tools that 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManjunathGouda7&show_icons=true&hide_border=true&theme=midnight-purple&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManjunathGouda7&show_icons=true&hide_border=true&theme=onedark&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjunathGouda7&layout=compact&hide_border=true&theme=midnight-purple)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManjunathGouda7&layout=compact&hide_border=true&theme=onedark)
 
-![Contribution Streak](https://streak-stats.demolab.com?user=ManjunathGouda7&theme=midnight-purple&hide_border=true)
+![Contribution Streak](https://streak-stats.demolab.com?user=ManjunathGouda7&theme=onedark&hide_border=true)
 
 </div>
 
