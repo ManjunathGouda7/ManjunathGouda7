@@ -6,7 +6,7 @@ GitHub Profile README for ManjunathGouda7
 
 <!-- Clickable banner linking to your GitHub profile -->
 <a href="https://github.com/ManjunathGouda7">
-  <img src="profile-banner.png" alt="Manjunath Gouda — Software Engineer, Python Automation, AI/ML" width="100%" />
+  <img src="Profile.png" alt="Manjunath Gouda — Software Engineer, Python Automation, AI/ML" width="100%" />
 </a>
 
 # Hi, I'm Manjunath Gouda 👋
